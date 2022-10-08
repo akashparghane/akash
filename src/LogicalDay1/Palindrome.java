@@ -19,6 +19,13 @@ public class Palindrome {
 			else {
 				System.out.println("Your name is not palindrome");
 			}
+		//changes
+		//1. Variable Declaration
+		String name1;
+		//2. Variable Assign
+		name1="Akash";
+		//3. Usages
+		System.out.println(name1);
 		}
 
 	}
